@@ -1,0 +1,13 @@
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\bin\Release\DiceClient.exe
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\bin\Release\DiceClient.pdb
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\DiceClient.Form1.resources
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\DiceClient.Properties.Resources.resources
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\DiceClient.exe
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\DiceClient.pdb
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceClient\DiceClient\bin\Release\DiceClient.exe.manifest
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceClient\DiceClient\bin\Release\DiceClient.application
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\DiceClient.exe.manifest
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceClient\DiceClient\obj\x86\Release\DiceClient.application
